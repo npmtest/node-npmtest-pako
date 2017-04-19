@@ -1,1 +1,40 @@
-{     "devDependencies": {         "pako": "*",         "electron-lite": "kaizhu256/node-electron-lite#alpha",         "utility2": "kaizhu256/node-utility2#alpha"     },     "name":"npmtest-pako",     "homepage": "https://github.com/npmtest/node-npmtest-pako",     "repository": {         "type": "git",         "url": "https://github.com/npmtest/node-npmtest-pako.git"     },     "scripts": {         "build-ci": "utility2 shReadmeTest build_ci.sh"     },     "version": "0.0.1" }
+{
+    "author": "kai zhu <kaizhu256@gmail.com>",
+    "description": "#### basic test coverage for  [pako (v1.0.5)](https://github.com/nodeca/pako)  [![npm package](https://img.shields.io/npm/v/npmtest-pako.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-pako) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-pako.svg)](https://travis-ci.org/npmtest/node-npmtest-pako)",
+    "devDependencies": {
+        "electron-lite": "kaizhu256/node-electron-lite#alpha",
+        "pako": "*",
+        "utility2": "kaizhu256/node-utility2#alpha"
+    },
+    "engines": {
+        "node": ">=4.0"
+    },
+    "homepage": "https://github.com/npmtest/node-npmtest-pako",
+    "keywords": [
+        "coverage",
+        "test",
+        "pako"
+    ],
+    "license": "MIT",
+    "main": "lib.npmtest_pako.js",
+    "name": "npmtest-pako",
+    "nameAlias": "npmtest_pako",
+    "nameOriginal": "npmtest-pako",
+    "os": [
+        "darwin",
+        "linux"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/npmtest/node-npmtest-pako.git"
+    },
+    "scripts": {
+        "build-ci": "utility2 shReadmeTest build_ci.sh",
+        "env": "env",
+        "heroku-postbuild": "npm install \"kaizhu256/node-utility2#alpha\" && utility2 shDeployHeroku",
+        "postinstall": "[ ! -f npm_scripts.sh ] || ./npm_scripts.sh postinstall",
+        "start": "PORT=${PORT:-8080} utility2 start test.js",
+        "test": "(set -e; export PORT=$(utility2 shServerPortRandom); utility2 test test.js)"
+    },
+    "version": "0.0.1"
+}
