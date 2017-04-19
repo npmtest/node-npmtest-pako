@@ -1,33 +1,33 @@
 <svg height="478" width="720" xmlns="http://www.w3.org/2000/svg">
 <rect height="478" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
-<tspan x="10" y="26">  0.  2017-04-19 23:46:24 +0000   781995 bytes  .</tspan>
-<tspan x="10" y="42">  1.  2017-04-19 23:46:24 +0000     2062 bytes  CHANGELOG.md</tspan>
-<tspan x="10" y="58">  2.  2017-04-19 23:46:24 +0000     1104 bytes  LICENSE</tspan>
-<tspan x="10" y="74">  3.  2017-04-19 23:46:24 +0000     5451 bytes  README.md</tspan>
-<tspan x="10" y="90">  4.  2017-04-19 23:46:24 +0000   219015 bytes  dist/pako.js</tspan>
-<tspan x="10" y="106">  5.  2017-04-19 23:46:24 +0000    46993 bytes  dist/pako.min.js</tspan>
-<tspan x="10" y="122">  6.  2017-04-19 23:46:24 +0000   127858 bytes  dist/pako_deflate.js</tspan>
-<tspan x="10" y="138">  7.  2017-04-19 23:46:24 +0000    28128 bytes  dist/pako_deflate.min.js</tspan>
-<tspan x="10" y="154">  8.  2017-04-19 23:46:24 +0000   106133 bytes  dist/pako_inflate.js</tspan>
-<tspan x="10" y="170">  9.  2017-04-19 23:46:24 +0000    23156 bytes  dist/pako_inflate.min.js</tspan>
-<tspan x="10" y="186"> 10.  2017-04-19 23:46:24 +0000      347 bytes  index.js</tspan>
-<tspan x="10" y="202"> 11.  2017-04-19 23:46:24 +0000    11073 bytes  lib/deflate.js</tspan>
-<tspan x="10" y="218"> 12.  2017-04-19 23:46:24 +0000    12158 bytes  lib/inflate.js</tspan>
-<tspan x="10" y="234"> 13.  2017-04-19 23:46:24 +0000     2368 bytes  lib/utils/common.js</tspan>
-<tspan x="10" y="250"> 14.  2017-04-19 23:46:24 +0000     5153 bytes  lib/utils/strings.js</tspan>
-<tspan x="10" y="266"> 15.  2017-04-19 23:46:24 +0000     2180 bytes  lib/zlib/README</tspan>
-<tspan x="10" y="282"> 16.  2017-04-19 23:46:24 +0000     1655 bytes  lib/zlib/adler32.js</tspan>
-<tspan x="10" y="298"> 17.  2017-04-19 23:46:24 +0000     2312 bytes  lib/zlib/constants.js</tspan>
-<tspan x="10" y="314"> 18.  2017-04-19 23:46:24 +0000     1750 bytes  lib/zlib/crc32.js</tspan>
-<tspan x="10" y="330"> 19.  2017-04-19 23:46:24 +0000    61192 bytes  lib/zlib/deflate.js</tspan>
-<tspan x="10" y="346"> 20.  2017-04-19 23:46:24 +0000     2240 bytes  lib/zlib/gzheader.js</tspan>
-<tspan x="10" y="362"> 21.  2017-04-19 23:46:24 +0000    12668 bytes  lib/zlib/inffast.js</tspan>
-<tspan x="10" y="378"> 22.  2017-04-19 23:46:24 +0000    48324 bytes  lib/zlib/inflate.js</tspan>
-<tspan x="10" y="394"> 23.  2017-04-19 23:46:24 +0000    12500 bytes  lib/zlib/inftrees.js</tspan>
-<tspan x="10" y="410"> 24.  2017-04-19 23:46:24 +0000     1538 bytes  lib/zlib/messages.js</tspan>
-<tspan x="10" y="426"> 25.  2017-04-19 23:46:24 +0000    39841 bytes  lib/zlib/trees.js</tspan>
-<tspan x="10" y="442"> 26.  2017-04-19 23:46:24 +0000     1811 bytes  lib/zlib/zstream.js</tspan>
-<tspan x="10" y="458"> 27.  2017-04-19 23:46:24 +0000     2985 bytes  package.json</tspan>
+<tspan x="10" y="26">  0.  2017-04-19 23:47:28 +0000   781995 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-19 23:47:28 +0000     2062 bytes  CHANGELOG.md</tspan>
+<tspan x="10" y="58">  2.  2017-04-19 23:47:28 +0000     1104 bytes  LICENSE</tspan>
+<tspan x="10" y="74">  3.  2017-04-19 23:47:28 +0000     5451 bytes  README.md</tspan>
+<tspan x="10" y="90">  4.  2017-04-19 23:47:28 +0000   219015 bytes  dist/pako.js</tspan>
+<tspan x="10" y="106">  5.  2017-04-19 23:47:28 +0000    46993 bytes  dist/pako.min.js</tspan>
+<tspan x="10" y="122">  6.  2017-04-19 23:47:28 +0000   127858 bytes  dist/pako_deflate.js</tspan>
+<tspan x="10" y="138">  7.  2017-04-19 23:47:28 +0000    28128 bytes  dist/pako_deflate.min.js</tspan>
+<tspan x="10" y="154">  8.  2017-04-19 23:47:28 +0000   106133 bytes  dist/pako_inflate.js</tspan>
+<tspan x="10" y="170">  9.  2017-04-19 23:47:28 +0000    23156 bytes  dist/pako_inflate.min.js</tspan>
+<tspan x="10" y="186"> 10.  2017-04-19 23:47:28 +0000      347 bytes  index.js</tspan>
+<tspan x="10" y="202"> 11.  2017-04-19 23:47:28 +0000    11073 bytes  lib/deflate.js</tspan>
+<tspan x="10" y="218"> 12.  2017-04-19 23:47:28 +0000    12158 bytes  lib/inflate.js</tspan>
+<tspan x="10" y="234"> 13.  2017-04-19 23:47:28 +0000     2368 bytes  lib/utils/common.js</tspan>
+<tspan x="10" y="250"> 14.  2017-04-19 23:47:28 +0000     5153 bytes  lib/utils/strings.js</tspan>
+<tspan x="10" y="266"> 15.  2017-04-19 23:47:28 +0000     2180 bytes  lib/zlib/README</tspan>
+<tspan x="10" y="282"> 16.  2017-04-19 23:47:28 +0000     1655 bytes  lib/zlib/adler32.js</tspan>
+<tspan x="10" y="298"> 17.  2017-04-19 23:47:28 +0000     2312 bytes  lib/zlib/constants.js</tspan>
+<tspan x="10" y="314"> 18.  2017-04-19 23:47:28 +0000     1750 bytes  lib/zlib/crc32.js</tspan>
+<tspan x="10" y="330"> 19.  2017-04-19 23:47:28 +0000    61192 bytes  lib/zlib/deflate.js</tspan>
+<tspan x="10" y="346"> 20.  2017-04-19 23:47:28 +0000     2240 bytes  lib/zlib/gzheader.js</tspan>
+<tspan x="10" y="362"> 21.  2017-04-19 23:47:28 +0000    12668 bytes  lib/zlib/inffast.js</tspan>
+<tspan x="10" y="378"> 22.  2017-04-19 23:47:28 +0000    48324 bytes  lib/zlib/inflate.js</tspan>
+<tspan x="10" y="394"> 23.  2017-04-19 23:47:28 +0000    12500 bytes  lib/zlib/inftrees.js</tspan>
+<tspan x="10" y="410"> 24.  2017-04-19 23:47:28 +0000     1538 bytes  lib/zlib/messages.js</tspan>
+<tspan x="10" y="426"> 25.  2017-04-19 23:47:28 +0000    39841 bytes  lib/zlib/trees.js</tspan>
+<tspan x="10" y="442"> 26.  2017-04-19 23:47:28 +0000     1811 bytes  lib/zlib/zstream.js</tspan>
+<tspan x="10" y="458"> 27.  2017-04-19 23:47:28 +0000     2985 bytes  package.json</tspan>
 </text>
 </svg>
